@@ -65,7 +65,7 @@
   {
     "name": "Top Ten List",
     "cost": 8000,
-    "command": "!buy top10",
+    "command": "!buy top10 [enter list topic here]",
     "thumbnail": "images/top-10-list.png",
     "description": "Give a topic for me to make a top 10 list for. Anything offensive will be rejected",
     "tags": ["Stream", "Event"],
@@ -110,7 +110,7 @@
   {
     "name": "Charitable Donation",
     "cost": 2500,
-    "command": "!buy handout",
+    "command": "!buy handout [enter username here]",
     "thumbnail": "images/charity.png",
     "description": "Gift 1,000 pixels to any viewer of your choosing",
     "tags": ["Event", "Bonuses"],
