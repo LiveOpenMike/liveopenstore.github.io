@@ -139,7 +139,7 @@
     "cost": 6500,
     "command": "!buy makeitrain",
     "thumbnail": "images/rain.png",
-    "description": "Gift 250 pixels to everyone currently in chat",
+    "description": "Gift 500 pixels to everyone currently in chat",
     "tags": ["Event", "Bonuses"],
     "featured": false
   }
